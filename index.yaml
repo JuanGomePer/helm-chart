@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   patrones:
   - apiVersion: v2
+    appVersion: 1.0.35-f4fa8f9
+    created: "2025-08-22T06:01:20.734887985Z"
+    description: Chart de la app monolito + Postgres + Ingress
+    digest: df067086a8ef432b70ec635396acacdc575969ee47cf2a6f16fcf71e2358c361
+    name: patrones
+    type: application
+    urls:
+    - https://juangomeper.github.io/helm-chart/patrones-1.0.35.tgz
+    version: 1.0.35
+  - apiVersion: v2
     appVersion: 1.0.34-bd12c84
-    created: "2025-08-22T05:01:54.726943313Z"
+    created: "2025-08-22T06:01:20.73463751Z"
     description: Chart de la app monolito + Postgres + Ingress
     digest: 52fc8275768520d9571aa3d7a35405d11e4574670168409fc05ed22b40d0a494
     name: patrones
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://juangomeper.github.io/helm-chart/patrones-1.0.34.tgz
     version: 1.0.34
-generated: "2025-08-22T05:01:54.726568985Z"
+generated: "2025-08-22T06:01:20.734256643Z"
