@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   patrones:
   - apiVersion: v2
+    appVersion: 1.0.49-dev-1e4e97f
+    created: "2025-08-23T23:06:25.733739431Z"
+    description: Chart de la app monolito + Postgres + Ingress
+    digest: 41868f48b8703fce23b47acdab3ded958be8a71d19cc8385d47d91f6e474cc7f
+    name: patrones
+    type: application
+    urls:
+    - https://juangomeper.github.io/helm-chart/patrones-1.0.49-dev.tgz
+    version: 1.0.49-dev
+  - apiVersion: v2
     appVersion: 1.0.47-dev-8743cbd
-    created: "2025-08-23T22:56:46.356979265Z"
+    created: "2025-08-23T23:06:25.733481018Z"
     description: Chart de la app monolito + Postgres + Ingress
     digest: 4bb48cde967c740c1507d3c2a2b04ef1d669a45ce6e95131d2025a6a3a356b64
     name: patrones
@@ -13,7 +23,7 @@ entries:
     version: 1.0.47-dev
   - apiVersion: v2
     appVersion: 1.0.46-dev-b4d9803
-    created: "2025-08-23T22:56:46.356717656Z"
+    created: "2025-08-23T23:06:25.733211415Z"
     description: Chart de la app monolito + Postgres + Ingress
     digest: 1bef88c936880192c415b398f215779a382af33c92bc4a60e72a0189fea1cd3a
     name: patrones
@@ -23,7 +33,7 @@ entries:
     version: 1.0.46-dev
   - apiVersion: v2
     appVersion: 1.0.45-dev-3e2749c
-    created: "2025-08-23T22:56:46.356460496Z"
+    created: "2025-08-23T23:06:25.732914421Z"
     description: Chart de la app monolito + Postgres + Ingress
     digest: 116855043d25c29e26095a822359e86295b11eabcedb5e9291cf6dd46f2b97ba
     name: patrones
@@ -33,7 +43,7 @@ entries:
     version: 1.0.45-dev
   - apiVersion: v2
     appVersion: 1.0.44-dev-f2bf182
-    created: "2025-08-23T22:56:46.356217352Z"
+    created: "2025-08-23T23:06:25.732625753Z"
     description: Chart de la app monolito + Postgres + Ingress
     digest: 10d2bcc8ca7ac65c090d27a6cb694049838cbe5dd6a4872b163ecbb725383390
     name: patrones
@@ -43,7 +53,7 @@ entries:
     version: 1.0.44-dev
   - apiVersion: v2
     appVersion: 1.0.43-dev-4c5d51a
-    created: "2025-08-23T22:56:46.355971363Z"
+    created: "2025-08-23T23:06:25.732074735Z"
     description: Chart de la app monolito + Postgres + Ingress
     digest: e92302ab0486938a41c60edd59031140d0b7674bf4ecd70e0d5ac42f2f6eb580
     name: patrones
@@ -53,7 +63,7 @@ entries:
     version: 1.0.43-dev
   - apiVersion: v2
     appVersion: 1.0.42-fdd811c
-    created: "2025-08-23T22:56:46.355671924Z"
+    created: "2025-08-23T23:06:25.731397711Z"
     description: Chart de la app monolito + Postgres + Ingress
     digest: 643f5da9e7dc09f052c00589b35c95382705db76c8130cb782ad4bc36b274c20
     name: patrones
@@ -63,7 +73,7 @@ entries:
     version: 1.0.42
   - apiVersion: v2
     appVersion: 1.0.41-b4016d6
-    created: "2025-08-23T22:56:46.355424081Z"
+    created: "2025-08-23T23:06:25.730943604Z"
     description: Chart de la app monolito + Postgres + Ingress
     digest: 4befccb1ee862ad644651d0ffc05baafe3a076a60423629591e4301018b99df0
     name: patrones
@@ -73,7 +83,7 @@ entries:
     version: 1.0.41
   - apiVersion: v2
     appVersion: 1.0.40-9e73fa4
-    created: "2025-08-23T22:56:46.355179755Z"
+    created: "2025-08-23T23:06:25.730508481Z"
     description: Chart de la app monolito + Postgres + Ingress
     digest: 17da653d4a8f9384ec5cbef12ce1f97ccb44488f2e89bff9bda57ad960f4942c
     name: patrones
@@ -83,7 +93,7 @@ entries:
     version: 1.0.40
   - apiVersion: v2
     appVersion: 1.0.39-440d92c
-    created: "2025-08-23T22:56:46.354901446Z"
+    created: "2025-08-23T23:06:25.729905196Z"
     description: Chart de la app monolito + Postgres + Ingress
     digest: d81ef877eef62135edb912f597a740fc3ba02dfdb82204fea28662920bc203d5
     name: patrones
@@ -93,7 +103,7 @@ entries:
     version: 1.0.39
   - apiVersion: v2
     appVersion: 1.0.38-d55073e
-    created: "2025-08-23T22:56:46.354618628Z"
+    created: "2025-08-23T23:06:25.729635062Z"
     description: Chart de la app monolito + Postgres + Ingress
     digest: 044bfa6709a12f4659a136a48ad65e2a06e6b5eeb8cfbb71b55f9d3b000bb453
     name: patrones
@@ -103,7 +113,7 @@ entries:
     version: 1.0.38
   - apiVersion: v2
     appVersion: 1.0.37-3fd0121
-    created: "2025-08-23T22:56:46.354327033Z"
+    created: "2025-08-23T23:06:25.729379875Z"
     description: Chart de la app monolito + Postgres + Ingress
     digest: d3fb102fce38c6f63c66afe1faef847ec17d3b911b515204dab5019eaaeaa861
     name: patrones
@@ -111,4 +121,4 @@ entries:
     urls:
     - https://juangomeper.github.io/helm-chart/patrones-1.0.37.tgz
     version: 1.0.37
-generated: "2025-08-23T22:56:46.353489449Z"
+generated: "2025-08-23T23:06:25.728936458Z"
